@@ -1,0 +1,6 @@
+{
+  "name": "Flash Ping",
+  "description": "Pro network ping latency monitor, game server diagnostic, and DNS speed optimizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
